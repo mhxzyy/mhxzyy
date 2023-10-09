@@ -5,9 +5,8 @@ I'm enthusiastic about learning the latest programming languages and technologie
 
 I'm currently learning Kotlin development language. 
 
-<img src="(https://github.com/mohxai/mohxai/assets/134870444/353e0f14-b07f-474d-bbc0-5f4fb2e698b6)" alt="octogato" width="200px">
+![octocat-1696850205342](https://github.com/mohxai/mohxai/assets/134870444/f848341f-ef7f-43c6-a505-030a32b399a1)
 
 - 📫 How to reach me:
 
   mail : @mohxzy28@gmail.com
-
