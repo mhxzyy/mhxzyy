@@ -5,7 +5,6 @@ I'm enthusiastic about learning the latest programming languages and technologie
 
 I'm currently learning Kotlin development language. 
 
-![octocat-1696850205342](https://github.com/mohxai/mohxai/assets/134870444/f848341f-ef7f-43c6-a505-030a32b399a1)
 
 - 📫 How to reach me:
 
